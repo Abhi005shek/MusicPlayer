@@ -6,6 +6,13 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 <img src='https://github.com/Abhi005shek/MusicPlayer/assets/141830457/dac7f2d8-1236-4202-a9e8-0785f586d288' width='200' />
 
+<img src='https://github.com/Abhi005shek/MusicPlayer/assets/141830457/4dcd8cb5-3c53-4faf-ba64-207939c3364f' width='200' />
+
+<img src='https://github.com/Abhi005shek/MusicPlayer/assets/141830457/6a98043a-8661-43a6-ba18-ff49faca24b6' width='200' />
+
+
+![Screenshot_1720365522](https://github.com/Abhi005shek/MusicPlayer/assets/141830457/6a98043a-8661-43a6-ba18-ff49faca24b6)
+
 
 # Learn More
 

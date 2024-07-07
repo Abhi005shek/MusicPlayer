@@ -11,9 +11,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 <img src='https://github.com/Abhi005shek/MusicPlayer/assets/141830457/6a98043a-8661-43a6-ba18-ff49faca24b6' width='200' />
 
 
-![Screenshot_1720365522](https://github.com/Abhi005shek/MusicPlayer/assets/141830457/6a98043a-8661-43a6-ba18-ff49faca24b6)
-
-
 # Learn More
 
 To learn more about React Native, take a look at the following resources:

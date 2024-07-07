@@ -1,5 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+Some of the screenshots 
+![Screenshot_1720365494](https://github.com/Abhi005shek/MusicPlayer/assets/141830457/d190d28a-8d78-4c39-9dc0-f6ffc0d72a5a)
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.

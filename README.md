@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 Some of the screenshots 
 ![Screenshot_1720365494](https://github.com/Abhi005shek/MusicPlayer/assets/141830457/d190d28a-8d78-4c39-9dc0-f6ffc0d72a5a)
-<img src'https://github.com/Abhi005shek/MusicPlayer/assets/141830457/d190d28a-8d78-4c39-9dc0-f6ffc0d72a5a' width='200'>
+<img src='https://github.com/Abhi005shek/MusicPlayer/assets/141830457/d190d28a-8d78-4c39-9dc0-f6ffc0d72a5a' width='200' />
 
 # Learn More
 
